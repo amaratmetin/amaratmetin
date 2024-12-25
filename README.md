@@ -1,4 +1,4 @@
-👋 Good day to all, here to make things; and hopefully make something of myself!
+👋 Good day to all, here to make some things; and hopefully make something of myself!
 
 <!---
 amaratmetin/amaratmetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
